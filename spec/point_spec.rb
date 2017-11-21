@@ -1,5 +1,6 @@
 require "spec_helper"
 
+# comment
 
 RSpec.describe Point do
   it "has a version number" do
